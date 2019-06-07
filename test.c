@@ -1,7 +1,7 @@
 /*
  * xiaolaba, 2019-JUN-06
  * sdcc 3.9.0 used
- * 
+ * https://sourceforge.net/projects/sdcc/
 how to build :
 
 :: compile multiple C files for QT4

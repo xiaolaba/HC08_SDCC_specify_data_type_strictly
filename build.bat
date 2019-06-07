@@ -9,10 +9,18 @@
 :: xiaolaba, 2018-OCT-20
 :: 2018-NOV-12, split command the multi lines, ^
 
-:: 2019-MAY-30, move to HK IR control
 
+:: del *.asm
+del *.cdb
+del *.lk
+del *.lst
+del *.map
+del *.rel
 del *.rst
+del *.sym
 del *.s19
+
+pause
 cls
 
 
